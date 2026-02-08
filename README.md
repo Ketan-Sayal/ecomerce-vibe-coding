@@ -484,7 +484,7 @@ ISC
 
 ## 👥 Author
 
-Naksh Jewels Development Team
+Owner
 
 ---
 
